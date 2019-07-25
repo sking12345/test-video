@@ -7,4 +7,5 @@
  问题：<br>
  2019-4-2:<br>
   1:将采集到的pcm 编码为acc -- 未完成<br>
+    参考:https://www.cnblogs.com/ningci/p/9940645.html
   
